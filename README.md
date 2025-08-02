@@ -1,1 +1,1 @@
-FreeRtos [https://www.freertos.org/] porting to UninaSoc [https://github.com/HiSA-Team/Simply-V]
+FreeRtos demo [https://www.freertos.org/] port for UninaSoc [https://github.com/HiSA-Team/Simply-V]
